@@ -1,7 +1,5 @@
 바퀴 공장
-<<<<<<< HEAD
 feature001의 첫 번째 작업 사항 -> 발생된 에러 수정
-=======
-feature001의 첫 번째 작업 사항
 feature002의 첫 번째 작업 사항
->>>>>>> feature/002
+feature003의 첫 번째 작업 사항(wheel frame 17인치)
+feature003의 두 번째 작업 사항(wheel frame 20인치)
