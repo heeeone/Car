@@ -4,3 +4,4 @@ feature002의 첫 번째 작업 사항
 feature003의 첫 번째 작업 사항(wheel frame 17인치)
 feature003의 두 번째 작업 사항(wheel frame 20인치)
 feature004의 첫 번째 작업 사항(한국 타이어)
+feature004의 두 번째 작업 사항(넥센 타이어)
